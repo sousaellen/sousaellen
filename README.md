@@ -3,7 +3,7 @@
 <div align="center">
 <img align="center" src="painel2.png" alt="painel">
 <h1><font color="#660582">Hi, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</font> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
-<h3>My name is Ellen Sousa and I'm a computer engineer. I'm from Brazil, living in Ceará and currently working at GREat.</h3>
+<h4>My name is Ellen Sousa and I'm a computer engineer. I'm from Brazil, living in Ceará and currently working at GREat.</h4>
 </div>
 
 
