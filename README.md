@@ -2,8 +2,8 @@
 
 <div align="center">
 <img align="center" src="painel2.png" alt="painel">
-<h2> Hi, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-<h1>Meu nome é Ellen Sousa e sou engenheira de computação. Sou do Brasil, moro no Ceará e atualmente trabalho no GREat.</h1>
+<h1><font color="#660582"> Hi, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</font> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+<h2>Meu nome é Ellen Sousa e sou engenheira de computação. Sou do Brasil, moro no Ceará e atualmente trabalho no GREat.</h2>
 </div>
 
 
