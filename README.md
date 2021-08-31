@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<img align="center" src="painel.png" alt="painel">
+<img align="center" src="painel2.png" alt="painel">
 <h2> Hi, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
