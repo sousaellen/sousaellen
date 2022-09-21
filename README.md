@@ -3,8 +3,13 @@
 <div align="center">
 <img align="center" src="painel.jfif" alt="painel">
 <h2><font color="#660582">Hi, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</font> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-<div><h5>My name is Ellen Sousa and I'm a computer engineer. I'm from Brazil, living in Ceará and currently work as a Software Qa Tester at Grupo de Redes de Computadores, Engenharia de Software e Sistemas (GREat).</h5></div>
+<div><h5>
+<p>Meu nome é Ellen Sousa e sou Engenheira da Computação. Sou brasileira, moro no Ceará e atualmente trabalho 
+<p>como Testadora de Software no Grupo de Redes de Computadores, Engenharia de Software e Sistemas (GREat).
+</h5></div>
 </div>
+
+
 
 
 
