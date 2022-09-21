@@ -7,7 +7,8 @@
 <p>Meu nome é Ellen Sousa e sou Engenheira da Computação. Sou brasileira, moro no Ceará e atualmente trabalho 
 <p>como Testadora de Software no Grupo de Redes de Computadores, Engenharia de Software e Sistemas (GREat).
 </h5></div>
-  
+<p>
+<h4>Contatos:</h4>
 <a href="https://www.linkedin.com/in/raissa-sousa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-arround&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/sousaellenn/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%230077B5.svg?&style=flat-arround&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="mailto:ellensousa@alu.ufc.br?Subject=%5BGitHub%5D" target="_blank"><img src="https://img.shields.io/badge/Email-%230077B5.svg?&style=flat-arround&logo=gmail&logoColor=white" alt="Email"></a>
