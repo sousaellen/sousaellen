@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<img align="center" src="painel2.png" alt="painel">
+<img align="center" src="painel.jfif" alt="painel">
 <h1><font color="#660582">Hi, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</font> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 <div><h3><font color="red">My name is Ellen Sousa and I'm a computer engineer. I'm from Brazil, living in Ceará and currently work as a Software Qa Tester at Grupo de Redes de Computadores, Engenharia de Software e Sistemas (GREat).</h3></div>
 </div>
