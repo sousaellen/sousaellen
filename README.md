@@ -2,10 +2,10 @@
 
 <div align="center">
 <img align="center" src="painel.jfif" alt="painel">
-<h2><font color="#660582">Hi, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</font> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2><font color="#660582"> print ('Hello, World!') </font> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 <div><h5>
-<p>Meu nome é Ellen Sousa e sou Engenheira da Computação. Sou brasileira, moro no Ceará e atualmente trabalho 
-<p>como Testadora de Software no Grupo de Redes de Computadores, Engenharia de Software e Sistemas (GREat).
+<p>Me chamo Ellen Sousa e sou graduanda em Engenharia da Computação. Sou brasileira, moro no Ceará e atualmente trabalho 
+<p>como Analista de Testes de Software no Grupo de Redes de Computadores, Engenharia de Software e Sistemas (GREat).
 </h5></div>
 <p>
 <h4>Contatos:</h4>
