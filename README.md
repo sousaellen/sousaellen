@@ -4,7 +4,7 @@
 <img align="center" src="painel.jfif" alt="painel">
 <p></p>
 <img src="Hi.gif" width="30px">
-<h2><font color="#660582">Hello Word!</font></h2>
+<h2><font color="#660582">Hello World!</font></h2>
   <img align="right" alt="GIF" height="160px" src="woman-computer.gif" />
 
   <p>Olá, meu nome é Raissa Sousa (mas como já somos íntimos podem me chamar de Rai). Sou técnica
