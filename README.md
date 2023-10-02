@@ -2,8 +2,10 @@
 
 <div align="center">
 <img align="center" src="painel.jfif" alt="painel">
-<h2><font color="#660582">Hey Guys! </font> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-
+<p></p>
+<img src="Hi.gif" width="30px">
+<h2><font color="#660582">Hey Guys!</font></h2>
+<p>
 <p>Olá, meu nome é Raissa Sousa (mas como já somos íntimos podem me chamar de Rai). Sou técnica
 <p>em Redes de Computadores e Engenheira de Computação pela Universidade Federal do Ceará. Sou  
 <p>brasileira e moro no Ceará. Apaixonada por tecnologia e uma eterna aprendiz. Por aqui vocês 
