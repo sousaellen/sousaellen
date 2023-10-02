@@ -2,10 +2,12 @@
 
 <div align="center">
 <img align="center" src="painel.jfif" alt="painel">
-<h2><font color="#660582"> print ('Hello, World!') </font> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2><font color="#660582">Hey Guys! </font> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 <div><h5>
-<p>Me chamo Ellen Sousa e sou graduanda em Engenharia da Computação. Sou brasileira, moro no Ceará e atualmente trabalho 
-<p>como Analista de Testes de Software no Grupo de Redes de Computadores, Engenharia de Software e Sistemas (GREat).
+<p>Olá, meu nome é Raissa Sousa (mas como já somos íntimos podem me chamar de Rai). Sou técnica
+<p>em Redes de Computadores e Engenheira de Computação pela Universidade Federal do Ceará. Sou  
+<p>brasileira e moro no Ceará. Apaixonada por tecnologia e uma eterna aprendiz. Por aqui vocês 
+<p>encontrarão alguns projetos meus, então já puxa a cadeira, pega seu cafézinho e fique à vontade.</p>
 </h5></div>
 <p>
 <h4>Contatos:</h4>
