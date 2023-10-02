@@ -7,20 +7,19 @@
 <h2><font color="#660582">Hello Word!</font></h2>
   <img align="right" alt="GIF" height="160px" src="woman-computer.gif" />
 
-<p>Olá, meu nome é Raissa Sousa (mas como já somos íntimos podem me chamar de Rai). Sou técnica
+  <p>Olá, meu nome é Raissa Sousa (mas como já somos íntimos podem me chamar de Rai). Sou técnica
 em Redes de Computadores e Engenheira de Computação pela Universidade Federal do Ceará. Sou  
 brasileira e moro no Ceará. Apaixonada por tecnologia e uma eterna aprendiz. Por aqui vocês 
 encontrarão alguns projetos meus, então já puxa a cadeira, pega seu cafézinho e fique à vontade.</p>
+</div>
 
-<p>
-<h4>Contatos:</h4>
+
+<h2><font color="#660582">Contatos:</font></h2>
 <a href="https://www.linkedin.com/in/raissa-sousa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-arround&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/sousaellenn/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%230077B5.svg?&style=flat-arround&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="mailto:ellensousa@alu.ufc.br?Subject=%5BGitHub%5D" target="_blank"><img src="https://img.shields.io/badge/Email-%230077B5.svg?&style=flat-arround&logo=gmail&logoColor=white" alt="Email"></a>
 
 
-</div>
-</div>
 
 
 
