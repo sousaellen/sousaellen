@@ -8,9 +8,9 @@
   <img align="right" alt="GIF" height="160px" src="woman-computer.gif" />
 
 <p>Olá, meu nome é Raissa Sousa (mas como já somos íntimos podem me chamar de Rai). Sou técnica
-<p>em Redes de Computadores e Engenheira de Computação pela Universidade Federal do Ceará. Sou  
-<p>brasileira e moro no Ceará. Apaixonada por tecnologia e uma eterna aprendiz. Por aqui vocês 
-<p>encontrarão alguns projetos meus, então já puxa a cadeira, pega seu cafézinho e fique à vontade.</p>
+em Redes de Computadores e Engenheira de Computação pela Universidade Federal do Ceará. Sou  
+brasileira e moro no Ceará. Apaixonada por tecnologia e uma eterna aprendiz. Por aqui vocês 
+encontrarão alguns projetos meus, então já puxa a cadeira, pega seu cafézinho e fique à vontade.</p>
 
 <p>
 <h4>Contatos:</h4>
